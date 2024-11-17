@@ -15,5 +15,5 @@ python3 autotxtaikos2.py
 
 # Useful Resource
 - [Register here](https://trailblazers.taiko.xyz/profile/)
-- [RPC Taiko Mainnet]()
+- [RPC Taiko Mainnet](https://chainlist.org/chain/167000)
 - [Bridge From L2 ETH (Optimism/Arbitrum/Base) to Taiko Mainnet ETH](https://www.memebridge.xyz/bridge)
