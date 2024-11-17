@@ -1,0 +1,7 @@
+https://rpc.mainnet.taiko.xyz
+https://rpc.taiko.xyz
+https://taiko-rpc.publicnode.com
+https://taiko-json-rpc.stakely.io
+https://taiko-mainnet.rpc.porters.xyz/taiko-public
+
+# or you can set your own eth taiko mainnet manually
