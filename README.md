@@ -1,4 +1,19 @@
 # Automatic Daily TX For Taiko S2 Support Multiple Wallet
-# [Dashboard For Check Point & Rank Here](https://trailblazers.taiko.xyz/)
-# [Install Requirement First Here !](https://github.com/ylasgamers/taikos2/blob/main/Requirements.md)
-# [How To Run](https://github.com/ylasgamers/taiko2/blob/main/howrun.md)
+Prerequiretes
+- Python3.10 or higher
+- Pip or Pip3
+- Python Environment
+
+# Installation
+```
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/taiko-daily-tx/main/quick-installation.sh)
+```
+# Running the script daily auto tx
+```
+python3 autotxtaikos2.py
+```
+
+# Useful Resource
+- [Register here](https://trailblazers.taiko.xyz/profile/)
+- [RPC Taiko Mainnet]()
+- [Bridge From L2 ETH (Optimism/Arbitrum/Base) to Taiko Mainnet ETH](https://www.memebridge.xyz/bridge)
