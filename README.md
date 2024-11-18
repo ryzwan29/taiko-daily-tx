@@ -19,6 +19,10 @@ python3 autotxtaiko.py
 ```
 python3 autotxtaikodaily.py
 ```
+- If you want running script for auto tx with custom volume
+```
+python3 autotxvolumetaiko.py
+```
 
 # Useful Resource
 - [Register here](https://trailblazers.taiko.xyz/profile/)
