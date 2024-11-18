@@ -15,7 +15,7 @@ source <(curl -s https://raw.githubusercontent.com/ryzwan29/taiko-daily-tx/main/
 python3 autotxtaiko.py
 ```
 - If you want running script for auto tx
-```You don't need to stop the script; it automatically stops making transactions once the daily max is reached```
+```⚠️ You don't need to stop the script; it automatically stops making transactions once the daily max is reached```
 ```
 python3 autotxtaikodaily.py
 ```
