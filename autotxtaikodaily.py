@@ -61,7 +61,7 @@ def vote(wallet, key):
         print(f"Maximum daily transaction limit of {MAX_TX_PER_DAY} reached.")
         return
     try:
-        for i in range(0,15):
+        for i in range(0,2):
             nonce = web3.eth.get_transaction_count(wallet)+i
             gasAmount = vote_contract.functions.vote().estimate_gas({
                 'chainId': chainId,
