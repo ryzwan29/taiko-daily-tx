@@ -10,7 +10,10 @@ source <(curl -s https://raw.githubusercontent.com/ryzwan29/taiko-daily-tx/main/
 ```
 # Running the script daily auto tx
 ```
-python3 autotxtaikos2.py
+python3 autotxtaiko.py
+```
+```
+python3 autotxtaikodaily.py
 ```
 
 # Useful Resource
